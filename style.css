@@ -1,18 +1,19 @@
 body{
-    background:#EDD0C9;
+    background:f3f3f3;
     color:#333;
     width:100%
     font-family:sans-serif;
     margin:0 auto;
 }
 .header{
-    width:90%
+    width:90%;
     margin:auto;
     height:120px;
     line-height:120px;
     background:#D69283;
     color:#fff;
 }
+
 
 
 
